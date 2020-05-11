@@ -1,6 +1,6 @@
 # my_music
 
-## 演示地址：http://121.36.94.53:82/music
+## 演示地址：http://gxnudsl.xyz:82/music
 
 ## 效果展示
 ![1](https://github.com/swifft/musicTool/blob/master/public/images/1.png)
